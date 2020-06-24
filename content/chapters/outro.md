@@ -4,8 +4,6 @@ bookFlatSection: true
 title: "Outro"
 ---
 
-## Outro
-
 “The texts labeled ‘history’ tell one story. If anyone bothers to ask, we can tell another.”
 
 This Ks’ou, who should have been his enemy, said these words as she shifted her weight on the edge of the vault of their damaged ship, then pushed one of the last bottles of water in his direction. It rolled to him easily. He picked it up and tried to suppress the hint of disgust as he drank, but he could not help the display, obvious as a Human grimace. To make this moment worse, the breeze was not so kind as to be cool; still, it was night, and so, between the dust above and the sand below they heaved a collective, if not somewhat forced, sigh of relief from the onslaught that mid-day wrought. 

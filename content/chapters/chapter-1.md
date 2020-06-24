@@ -4,8 +4,6 @@ bookFlatSection: true
 title: "Chapter 1 (Kelisfton)"
 ---
 
-## Chapter 1 (Kelisfton)
-
 >“Flesh describes an alien entity, a more or less expendable figure…  
 >its most poignant determination is the extent to which such a body cannot prevent or ward off another's touch. 
 >The single-most powerful evidence of the loss of freedom is the fact that bodies lose their integrity and may be >invaded or entered… by coercive power. 
