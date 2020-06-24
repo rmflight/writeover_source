@@ -39,5 +39,7 @@ This would be a day, perhaps, named after me for celebration. I was saving the *
 
 In case you were wondering: there are no heroes in this story. There are those who do heroic acts, and there are moments of courage. Do not consider any of us heroes; we are all only villains until the very moment of our dying breath, until our being is taken into account. 
 
+[Next Chapter]({{<ref "chapter-2.md" >}})
+
 ---
 [^1]: Reference lost.
