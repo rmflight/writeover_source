@@ -1,0 +1,36 @@
+<div class="flex flex-wrap justify-between">
+{{ if .Site.IsMultiLingual }}
+  {{ partial "docs/languages" . }}
+{{ end }}
+
+{{ if and .Site.Params.BookAuthor .Site.Params.CopyRightYear }}
+  <div>
+    <p> All content copyright {{ .Site.Params.BookAuthor }}, {{ .Site.Params.CopyRightYear }} </p>
+    {{ if and .Params.header_img }}
+    <div>
+      <img src="{{ .Params.header_img | relURL }}", width = 100%></img>
+    </div>
+    {{ end }}
+    <p> {{ printf "%#v"  .Params.header_img | relURL }} </p>
+  </div>
+{{ end }}
+
+{{ if and .GitInfo .Site.Params.BookRepo }}
+  <div>
+    {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
+    <a class="flex align-center" href="{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}" title='{{ i18n "Last modified by" }} {{ .GitInfo.AuthorName }} | {{ $date }}' target="_blank" rel="noopener">
+      <img src="{{ "svg/calendar.svg" | relURL }}" class="book-icon" alt="Calendar" />
+      <span>{{ $date }}</span>
+    </a>
+  </div>
+{{ end }}
+
+{{ if and .File .Site.Params.BookRepo .Site.Params.BookEditPath }}
+  <div>
+    <a class="flex align-center" href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ .Site.Params.contentDir }}/{{ replace .File.Path "\\" "/" }}" target="_blank" rel="noopener">
+      <img src="{{ "svg/edit.svg" | relURL }}" class="book-icon" alt="Edit" />
+      <span>{{ i18n "Edit this page" }}</span>
+    </a>
+  </div>
+{{ end }}
+</div>

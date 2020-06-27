@@ -2,6 +2,7 @@
 weight: 1
 bookFlatSection: true
 title: "Outro"
+header_img: "/img/compressed_header_trimmed.jpg"
 ---
 
 “The texts labeled ‘history’ tell one story. If anyone bothers to ask, we can tell another.”
