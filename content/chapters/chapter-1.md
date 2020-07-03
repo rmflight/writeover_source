@@ -2,6 +2,9 @@
 weight: 2
 bookFlatSection: true
 title: "Chapter 1 (Kelisfton)"
+header_img: "/img/chapter_header.jpeg"
+img_link: "https://unsplash.com/@eberhardgross?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+img_credit: "Photo: eberhard grossgasteiger on Unsplash"
 ---
 
 >“Flesh describes an alien entity, a more or less expendable figure…  

@@ -8,7 +8,9 @@
   <p>
     {{- .Content -}}
   </p>
-  
+  <p>
+    {{ printf "%#v" $.Site }}
+  </p>
 </article>
 {{ end }}
 

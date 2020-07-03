@@ -2,7 +2,9 @@
 weight: 1
 bookFlatSection: true
 title: "Outro"
-header_img: "/img/compressed_header_trimmed.jpg"
+header_img: "/img/chapter_header.jpeg"
+img_link: "https://unsplash.com/@eberhardgross?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+img_credit: "Photo: eberhard grossgasteiger on Unsplash"
 ---
 
 “The texts labeled ‘history’ tell one story. If anyone bothers to ask, we can tell another.”

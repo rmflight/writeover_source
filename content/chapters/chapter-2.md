@@ -2,6 +2,9 @@
 weight: 3
 bookFlatSection: true
 title: "Chapter 2"
+header_img: "/img/chapter_header.jpeg"
+img_link: "https://unsplash.com/@eberhardgross?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+img_credit: "Photo: eberhard grossgasteiger on Unsplash"
 ---
 
 [Previous Chapter]({{<ref "chapter-1.md" >}})
@@ -220,6 +223,7 @@ She held it back out to him, with some resistance, “Thank you. Your so-called 
 
 “Perhaps.” He made a rude sound, one that Aurana likened to scoffing; wordlessly, he took the sphere back. What more did he want? Argument? Understanding? *Meaning?* But he seemed stalled. She picked up her weapon again and stuffed it into her pocket to begin heading out of the forest starred.
 
+[Next Chapter]({{<ref "chapter-2star.md" >}})
 
 ---
 [^2]: Wolfe, Patrick. “Comparing Colonial and Racial Regimes.” 2013 lecture. https://www.youtube.com/watch?v=xwj5bcLG8ic

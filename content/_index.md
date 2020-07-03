@@ -1,6 +1,9 @@
 ---
 title: Welcome
-type: docs
+type: "docs"
+header_img: "/img/compressed_header_trimmed.jpg"
+img_credit: "Photo Credit: Matt Howard on Unsplash"
+img_link: "https://unsplash.com/@thematthoward?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
 ---
 
 # Welcome to SYMBIOSIS!
