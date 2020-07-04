@@ -165,6 +165,8 @@ Her manner of speaking, in addition to the way she’d fought in the woods, mark
 
 “I find you decently intolerable,” she would tell him later. This was perhaps progress. He would remember long cords of hair covering her face: bronze, round, discerning. “My name is Aurana.”
 
+[Next Chapter](<<ref "chapter-3.md" >>)
+
 ---
 
 [^6]: See Baldwin, J. “White Man’s Guilt.” Ebony Magazine, 1965. and Peck, R., Baldwin, J., Grellety, R., Aigui, A., Jackson, S. L., Deluxe, S., & Barbéris, M. H. (2017). I am not your Negro. Altitude.
