@@ -203,6 +203,8 @@ El nodded. “Tomorrow, after my *Ecology of Alien Invasions* class, maybe we ca
 
 “Pffff,” there were many things about Humans that she liked. One of them was how you could make breathy sounds instead of using full words and still be understood; it was clear, however, by his blank expression that El wasn’t so well versed in that, either. No idioms, no sounds—how long had he been on this planet? She tugged on her scarf a bit so it hugged more tightly around her neck before she stepped out into the snow, “Sure. I have enough footnotes for a book of my own.”
 
+[Next Chapter]({{<ref "chapter-3.md" >}})
+
 ---
 [^4]: See Guampedia, entry Hagåtña https://www.guampedia.com/hagatna/
 [^5]: “We are not statues of salt to be dissolved by rain!” See Simone Schwartz-Bart, Pluie et vent sur Télumée Miracle (With thanks from the author to my colleague Rashana Lydner for the Hatian Kréol translations.)
