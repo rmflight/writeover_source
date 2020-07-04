@@ -7,7 +7,7 @@ img_link: "https://unsplash.com/@eberhardgross?utm_source=unsplash&utm_medium=re
 img_credit: "Photo: eberhard grossgasteiger on Unsplash"
 ---
 
-[Previous Chapter]({{<ref "chapter_2star.md" >}})
+[Previous Chapter]({{<ref "chapter-2star.md" >}})
 
 Not all heroes die in a fantastic blaze of light.
 
