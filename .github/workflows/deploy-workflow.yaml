@@ -32,6 +32,7 @@ jobs:
 
       - name: Commit files
         run: |
+          pwd
           git config --local user.email "action@github.com"
           git config --local user.name "update site"
           git add *
