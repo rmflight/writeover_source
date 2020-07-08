@@ -26,6 +26,9 @@ jobs:
         run: |
           ls -Rl docs/
           ls -Rl themes/
+          rm -rf .git
+          cd docs/
+          git init
 
       - name: Commit files
         run: |
