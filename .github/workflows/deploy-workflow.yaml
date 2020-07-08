@@ -41,6 +41,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
+          repository: 'https://github.com/rmflight/writeover_target'
         #      - name: Deploy
         #uses: peaceiris/actions-gh-pages@v3
         #with:
