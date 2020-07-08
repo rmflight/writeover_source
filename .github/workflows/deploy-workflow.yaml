@@ -44,7 +44,7 @@ jobs:
           github_token: ${{ secrets.TOKEN }}
           force: true
           directory: docs
-          repository: 'https://github.com/rmflight/writeover_target.git'
+          repository: 'rmflight/writeover_target'
         #      - name: Deploy
         #uses: peaceiris/actions-gh-pages@v3
         #with:
